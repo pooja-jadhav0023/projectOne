@@ -34,6 +34,8 @@ public class FooterLinkCount {
 			itr.next().sendKeys(ctrlclick);
 		}
 		
+		///added code here 
+		
 		
 		
 	}

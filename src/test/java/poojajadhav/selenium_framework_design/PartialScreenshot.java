@@ -24,6 +24,8 @@ public class PartialScreenshot {
 		searchBox.sendKeys("test");
 		File file = searchBox.getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(file, new File("logo.png"));
+		
+		// test three 
 	}
 
 }

@@ -21,6 +21,8 @@ public class HeightAndWidth {
 		
 		int width = searchBox.getRect().getDimension().getWidth();
 		System.out.println("height is : "+width);
+		
+		// Added code here gitX
 	}
 
 }
